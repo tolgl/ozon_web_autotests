@@ -1,0 +1,1 @@
+# ozon_web_autotests
